@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilo.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,8 @@
       <workItem from="1587586573289" duration="42000" />
       <workItem from="1588100811830" duration="22000" />
       <workItem from="1588959234785" duration="945000" />
-      <workItem from="1588970347641" duration="23148000" />
+      <workItem from="1588970347641" duration="23484000" />
+      <workItem from="1589107914857" duration="3690000" />
     </task>
     <servers />
   </component>
@@ -84,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
